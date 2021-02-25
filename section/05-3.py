@@ -92,7 +92,7 @@ for word in q6:
     else:
         print(word.lower())
 
-# 리스트 컴프레이션
+# 리스트 컴프리핸션
 #일반적인 방법
 num = []
 for n in range(1, 101):
